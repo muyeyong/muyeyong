@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 上帝说我帅的很 👋
 
 <!--
 **muyeyong/muyeyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### About me
++ 前端小菜鸡
++ Blog: https://muyeyong.github.io/
++ `JS` && `CSS` && `Vue`
 [![mueyeyong GitHub stats](https://github-readme-stats.vercel.app/api?username=muyeyong)](https://github.com/anuraghazra/github-readme-stats)
 
