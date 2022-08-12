@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### toast for vue2.x npm:  https://www.npmjs.com/package/m-toast-vue
+     docker 豆瓣影视自动下载： muyeyong/film_robot ---> https://muyeyong.github.io/2022/01/06/zhe-teng-nas/
 [![mueyeyong GitHub stats](https://github-readme-stats.vercel.app/api?username=muyeyong)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muyeyong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
